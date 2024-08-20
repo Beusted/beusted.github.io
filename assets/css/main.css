@@ -2373,7 +2373,7 @@ input, select, textarea {
 						ul.actions:not(.fixed) li .button.icon:before {
 							margin-left: -0.5em;
 						}
-
+						
 		}
 
 /* Table */
@@ -2527,7 +2527,7 @@ input, select, textarea {
 		.button.large {
 			font-size: 1.35em;
 		}
-
+		
 		input[type="submit"].primary,
 		input[type="reset"].primary,
 		input[type="button"].primary,
@@ -2703,7 +2703,22 @@ input, select, textarea {
 				color: inherit;
 			}
 
+			.skills {
+				background-color: #49bf9d;
+				border-color: #49bf9d;
+				color: #ffffff;
+				border-radius: 0.35em;
+				padding: 0.05em;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				font-size: 16px;
+				width: 82px;
+				height: 30px;
+				
+			}
 /* Main */
+
 
 	#main {
 		margin-left: 35%;
